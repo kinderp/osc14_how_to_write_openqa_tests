@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "login_success"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 354,
+      "width": 115,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
