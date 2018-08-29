@@ -32,10 +32,10 @@ httpsonly = 0
 
 * Run all your services
 ```
-systemctl start postgresql
-systemctl start openqa-gru
-systemctl start openqa-webui
-systemctl restart apache2
+sudo systemctl start postgresql
+sudo systemctl start openqa-gru
+sudo systemctl start openqa-webui
+sudo systemctl restart apache2
 ```
 
 * Log in http://localhost and create your key and secret (see the video for a clear explanation)
