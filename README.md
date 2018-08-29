@@ -1,5 +1,5 @@
 # osc14_how_to_write_openqa_tests
-Here you can find needles and tests source file to follow osc14 openqa talk
+Here you can find needles and tests source file to follow [osc14 openqa talk](https://www.youtube.com/watch?v=EM3XmaQXcLg)
 
 - 1 `cd /var/lib/openqa/tests`
 - 2 `sudo git clone https://github.com/kinderp/osc14_how_to_write_openqa_tests.git slitaz-4`
