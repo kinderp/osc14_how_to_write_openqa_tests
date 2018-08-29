@@ -14,10 +14,10 @@ Here you can find needles and tests source file to follow [osc14 openqa talk](ht
 * Enable some apache modules
 
 ```
-a2enmod headers
-a2enmod proxy
-a2enmod proxy_http
-a2enmod proxy_wstunnel
+sudo a2enmod headers
+sudo a2enmod proxy
+sudo a2enmod proxy_http
+sudo a2enmod proxy_wstunnel
 ```
 
 * Disable https in /etc/openqa/openqa.ini (you just can set httpsonly field to zero).
