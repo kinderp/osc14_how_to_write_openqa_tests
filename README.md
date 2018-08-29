@@ -38,7 +38,7 @@ systemctl start openqa-webui
 systemctl restart apache2
 ```
 
-* Log in openqa http://localhost and create your key and secret (see the video for a clear explanation)
+* Log in http://localhost and create your key and secret (see the video for a clear explanation)
 
 * Set your key and secret in `/etc/openqa/client.conf`
 
