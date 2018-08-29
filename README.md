@@ -76,4 +76,4 @@ DESKTOP=default ISO=slitaz-4.0.iso
 
 ## Launch the worker and see what happens in webui
 
-`sudo systemctl openqa-worker@1`
+`sudo systemctl start openqa-worker@1`
