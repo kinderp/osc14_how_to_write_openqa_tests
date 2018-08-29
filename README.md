@@ -11,15 +11,17 @@ Here you can find needles and tests source file to follow [osc14 openqa talk](ht
 
 `sudo cp /etc/apache2/vhosts.d/openqa.conf.template /etc/apache2/vhosts.d/openqa.conf`
 
-* Enalbe some apache modules
-`
+* Enable some apache modules
+
+```
 a2enmod headers
 a2enmod proxy
 a2enmod proxy_http
 a2enmod proxy_wstunnel
-`
+```
 
 * Disable https in /etc/openqa/openqa.ini (you just can set httpsonly field to zero).
+
 ```
 [openid]
 ## base url for openid provider
