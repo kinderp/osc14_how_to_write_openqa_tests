@@ -7,7 +7,7 @@ Here you can find needles and tests source file to follow [osc14 openqa talk](ht
 - 4 `cd /var/lib/openqa/factory/iso`
 - 5 `aria2c http://mirror1.slitaz.org/iso/4.0/slitaz-4.0.iso`
 - 6 `chown geekotest:root slitaz-4.0.iso`
-- 7 ubmit your job with the following command
+- 7 submit your job with the following command
 
 ```
 /usr/share/openqa/script/client jobs post \
