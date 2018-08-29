@@ -1,5 +1,5 @@
 # osc14_how_to_write_openqa_tests
-Here you can find needles and tests source file to follow [osc14 openqa talk](https://www.youtube.com/watch?v=EM3XmaQXcLg)
+Here you can find needles and tests source files to follow [osc14 openqa talk](https://www.youtube.com/watch?v=EM3XmaQXcLg)
 
 ## Installation [origin](https://github.com/os-autoinst/openQA/blob/master/docs/Installing.asciidoc)
 
